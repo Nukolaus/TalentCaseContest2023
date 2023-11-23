@@ -19,6 +19,8 @@
 ## **Методы**
 * #### Расстояние Левенштейна
 * #### Embedding предложений (метрика pPMI (positive pointwise mutual information))
+* #### TF-IDF
+* #### N-gram
 
 ## **Библиотеки**
 * #### pandas==1.5.3
